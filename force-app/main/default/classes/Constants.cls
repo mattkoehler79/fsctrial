@@ -1,0 +1,3 @@
+public with sharing class Constants {
+    public Static String ACCOUNT_OBJECT_NAME = 'Account';
+}
